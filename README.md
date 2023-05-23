@@ -20,3 +20,6 @@ List of ideas to make your project more sustainable
 - Reduce network traffic transmission distance
 - Make non-time specific workloads aware of when it is greener to run
 - Always auto-scale
+- Use energy-efficient algorithms and data structures
+- Use efficient data storage and retrieval methods
+- Choose a language that is energy-efficient
