@@ -10,6 +10,10 @@ List of ideas to make your project more sustainable
 - Add details where feasible
 - Point to external resources when viable
 
+## Cloud/platform agnostic
+
+I will try my best to be as agnostic as possible, but most of my experience is with Azure. PRs for other platforms are highly encouraged.
+
 ## The List
 
 - Allow for a dark mode option
