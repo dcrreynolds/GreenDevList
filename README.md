@@ -24,6 +24,11 @@ I will try my best to be as agnostic as possible, but most of my experience is w
 - Reduce network traffic transmission distance
 - Make non-time specific workloads aware of when it is greener to run
 - Always auto-scale
+- right-size non-scalling resources
 - Use energy-efficient algorithms and data structures
 - Use efficient data storage and retrieval methods
 - Choose a language that is energy-efficient
+
+## Links
+
+https://greensoftware.foundation/articles/10-recommendations-for-green-software-development
