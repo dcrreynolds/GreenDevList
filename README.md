@@ -16,10 +16,15 @@ I will try my best to be as agnostic as possible, but most of my experience is w
 
 ## The List
 
-- Allow for a dark mode option
-- Remove unused resources
+## Planning
+
 - Make it a metric you care about and track (like cost)
 - Include emissions as a design point when building/refactoring
+- Include carbon cost in any cross-charging models
+
+## Building
+
+- Remove unused resources
 - Make your app smaller
 - Reduce network traffic transmission distance
 - Make non-time specific workloads aware of when it is greener to run
@@ -30,8 +35,13 @@ I will try my best to be as agnostic as possible, but most of my experience is w
 - Choose a language that is energy-efficient
 - Choose frameworks and packages that are energy-efficient
 - Use less stringent consistency mechanics when building distributed systems
+
+## Misc
+
+- Allow for a dark mode option
 - Provide and enable any energy saving modes
-- Include carbon cost in any cross-charging models
+
+## Around the office
 
 ## Links
 
