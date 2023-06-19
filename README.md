@@ -35,6 +35,7 @@ I will try my best to be as agnostic as possible, but most of my experience is w
 - Choose a language that is energy-efficient
 - Choose frameworks and packages that are energy-efficient
 - Use less stringent consistency mechanics when building distributed systems
+- Write more performant queries that limit result returned
 
 ## Misc
 
