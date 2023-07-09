@@ -36,6 +36,7 @@ I will try my best to be as agnostic as possible, but most of my experience is w
 - Choose frameworks and packages that are energy-efficient
 - Use less stringent consistency mechanics when building distributed systems
 - Write more performant queries that limit result returned
+- Partition data to avoid hot partitions
 
 ## Misc
 
